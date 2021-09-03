@@ -1,6 +1,6 @@
 # Awesome AI
 This repo, has a curated list of all things that we have done and the courses we've passed during learning ML and DL. if you think there is a course or something else that there isn't in this repo, feel free to contribute and add them :).
-So if you want to contribute, please first check [contribution section](#contribution).
+So if you want to contribute, please first check [the contribution section](#contribution).
 
 # Courses
 ## Machine Learning
