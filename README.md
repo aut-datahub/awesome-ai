@@ -11,10 +11,23 @@ So if you want to contribute, please first check [the contribution section](#con
 * Mathematics for Machine Learning - **Imperial College London** - *David Dye, Samuel J. Cooper, A. Freddie Page, Marc Peter Deisenroth* - `Specialization` ([:link:](https://www.coursera.org/specializations/mathematics-machine-learning))
 ## Deep Learning
 * Deep Learning - **DeepLearning.AI** - *Andrew NG, Kian Katanforoosh, Younes Bensouda Mourri* - `Specialization` ([:link:](https://www.coursera.org/specializations/deep-learning))
-## Reinforcement Learning
+### Natural Language Processing
+* CS224n: Natural Language Processing with Deep Learning - **University of Stanford** - *Chris Manning* ([:link:](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/)) ([:vhs:](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))
+### Speech
 
+### Computer Vision
+
+## Reinforcement Learning
+* Reinforcement Learning Specialization - **University of Alberta** - *Martha White, Adam White* ([:link:](https://www.coursera.org/specializations/reinforcement-learning#instructors))
 # Datasets
+
 # Youtube Videos/Channels/Playlists
+* 3Blue1Brown | `calculus` | ([:link:](https://www.youtube.com/c/3blue1brown))
+* StatQuest with Josh Starmer | `Statistics` `ML` | ([:link:](https://www.youtube.com/c/joshstarmer))
+* Steve Brunton | `RL` `Linear Algebra` | ([:link:](https://www.youtube.com/c/Eigensteve))
+* Yannic Kilcher | `ML` `DL` `Paper Review` | ([:link:](https://www.youtube.com/c/YannicKilcher))
+* Valerio Velardo - The Sound of AI | `Speech` | ([:link:](https://www.youtube.com/c/ValerioVelardoTheSoundofAI)) 
+
 # Articles and Papers
 * Neural Networks and Deep Learning - *Michael Nielsen* - `Online Book` `free` ([:link:](http://neuralnetworksanddeeplearning.com/))
 * Learning Internal Representations by Error Propagation - *Rumelhart, D. E., Hinton, G. E., Williams, R. J.* - `paper` `free` ([:link:](https://www.cs.toronto.edu/~hinton/absps/pdp8.pdf))
