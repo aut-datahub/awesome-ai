@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Awesome AI
-This repo, has a curated list of all things that we have done and the courses we've passed during learning ML and DL. if you think there is a course or something else that there isn't in this repo, feel free to contribute and add them :).
+This repo, has a curated list of all things that we have done and the courses we've passed during learning ML and DL. if you think there is a course or something else that there isn't in this repo, feel free to contribute and add them :)\
 So if you want to contribute, please first check [the contribution section](#contribution).
 
 # Courses
@@ -36,6 +36,8 @@ PersianQuAD contains approximately 20,000 "question, paragraph, answer" triplets
 # Repos
 * ML YouTube Courses | `readme` | ([:link:](https://github.com/dair-ai/ML-YouTube-Courses))
 * YSDA Natural Language Processing course | `nlp` `notebooks` `hands-on` | ([:link:](https://github.com/yandexdataschool/nlp_course))
+* Class.Vision | `vision` `notebooks` `hands-on` | ([:link:](https://github.com/Alireza-Akhavan/class.vision))
+* Deep Learning Models | `vision` `pre-trained models` `Keras` `deprecated` | ([:link:](https://github.com/fchollet/deep-learning-models))
 
 # Youtube Videos/Channels/Playlists
 * 3Blue1Brown | `calculus` | ([:link:](https://www.youtube.com/c/3blue1brown))
@@ -51,4 +53,9 @@ PersianQuAD contains approximately 20,000 "question, paragraph, answer" triplets
 # Contribution
 Let's Complete this awesome readme :)\
 Cause the lack of data and resources in this readme, we appreciate the new links and resources you introduce to us. Together we can do great jobs! so just don't hesitate and start your contribution.\
-Contribution is so simple. just you need to fork this repo and then add your desired resources (note that you have to follow the current format of text otherwise your PR will be rejected) or open an issue. It's really easy, isn't it?
+\
+Contribution is so simple. There are two ways:
+1. open an issue and tell us about the resource
+2. fork this repo and then add your desired resources (note that you have to follow the current format of text otherwise your PR will be rejected)
+
+It's really easy, isn't it?
