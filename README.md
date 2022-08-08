@@ -23,8 +23,19 @@ So if you want to contribute, please first check [the contribution section](#con
 * Reinforcement Learning Specialization - **University of Alberta** - *Martha White, Adam White* ([:link:](https://www.coursera.org/specializations/reinforcement-learning#instructors))
 # Datasets
 
+## Natural Language Processing
+### PersianQuAD: The Native Question Answering Dataset for the Persian Language 
+`Question-Answering`
+PersianQuAD contains approximately 20,000 "question, paragraph, answer" triplets on Persian Wikipedia articles and is the first large-scale native QA dataset for the Persian language which is created by native annotators.\
+([:link:](https://github.com/BigData-IsfahanUni/PersianQuAD))
+
+## Computer Vision
+
+## Speech
+
 # Repos
-* ML-YouTube-Courses | `readme` | ([:link:](https://github.com/dair-ai/ML-YouTube-Courses))
+* ML YouTube Courses | `readme` | ([:link:](https://github.com/dair-ai/ML-YouTube-Courses))
+* YSDA Natural Language Processing course | `nlp` `notebooks` `hands-on` | ([:link:](https://github.com/yandexdataschool/nlp_course))
 
 # Youtube Videos/Channels/Playlists
 * 3Blue1Brown | `calculus` | ([:link:](https://www.youtube.com/c/3blue1brown))
@@ -38,5 +49,6 @@ So if you want to contribute, please first check [the contribution section](#con
 * Learning Internal Representations by Error Propagation - *Rumelhart, D. E., Hinton, G. E., Williams, R. J.* - `paper` `free` ([:link:](https://www.cs.toronto.edu/~hinton/absps/pdp8.pdf))
 
 # Contribution
-Let's Complete this awesome readme :)
-Contribution is so simple. just you need to fork this repo and then add your desired resources (note that you have to follow the current format of text otherwise your pull request will be rejected) or open an issue. It's really easy, isn't it?
+Let's Complete this awesome readme :)\
+Cause the lack of data and resources in this readme, we appreciate the new links and resources you introduce to us. Together we can do great jobs! so just don't hesitate and start your contribution.\
+Contribution is so simple. just you need to fork this repo and then add your desired resources (note that you have to follow the current format of text otherwise your PR will be rejected) or open an issue. It's really easy, isn't it?
