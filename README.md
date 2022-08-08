@@ -1,3 +1,5 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 # Awesome AI
 This repo, has a curated list of all things that we have done and the courses we've passed during learning ML and DL. if you think there is a course or something else that there isn't in this repo, feel free to contribute and add them :).
 So if you want to contribute, please first check [the contribution section](#contribution).
@@ -21,6 +23,9 @@ So if you want to contribute, please first check [the contribution section](#con
 * Reinforcement Learning Specialization - **University of Alberta** - *Martha White, Adam White* ([:link:](https://www.coursera.org/specializations/reinforcement-learning#instructors))
 # Datasets
 
+# Repos
+* ML-YouTube-Courses | `readme` | ([:link:](https://github.com/dair-ai/ML-YouTube-Courses))
+
 # Youtube Videos/Channels/Playlists
 * 3Blue1Brown | `calculus` | ([:link:](https://www.youtube.com/c/3blue1brown))
 * StatQuest with Josh Starmer | `Statistics` `ML` | ([:link:](https://www.youtube.com/c/joshstarmer))
@@ -31,5 +36,7 @@ So if you want to contribute, please first check [the contribution section](#con
 # Articles and Papers
 * Neural Networks and Deep Learning - *Michael Nielsen* - `Online Book` `free` ([:link:](http://neuralnetworksanddeeplearning.com/))
 * Learning Internal Representations by Error Propagation - *Rumelhart, D. E., Hinton, G. E., Williams, R. J.* - `paper` `free` ([:link:](https://www.cs.toronto.edu/~hinton/absps/pdp8.pdf))
+
 # Contribution
-Contribution in this repo is so easy. just you need to fork this repo and then add your desired resources (note that you have to follow the current format of text otherwise your pull request won't be accepted). finally, you make a pull request and if everything is ok, we will merge it. it's really easy, isn't it?
+Let's Complete this awesome readme :)
+Contribution is so simple. just you need to fork this repo and then add your desired resources (note that you have to follow the current format of text otherwise your pull request will be rejected) or open an issue. It's really easy, isn't it?
