@@ -11,6 +11,7 @@ So if you want to contribute, please first check [the contribution section](#con
 * Machine Learning - **University of Washington** - *Emily Fox, Carlos Guestrin* - `Specialization` ([:link:](https://www.coursera.org/specializations/machine-learning))
   * implementation repo ([:link:](https://github.com/aut-datahub/ML_Washington_University))
 * Mathematics for Machine Learning - **Imperial College London** - *David Dye, Samuel J. Cooper, A. Freddie Page, Marc Peter Deisenroth* - `Specialization` ([:link:](https://www.coursera.org/specializations/mathematics-machine-learning))
+* SYDE 522 – Machine Intelligence (Winter 2019) - **University of Waterloo** - *H.R.Tizhoosh* ([:link:](https://youtube.com/playlist?list=PLpFYkKZ3fmP7T0datl4ghRebc7nlkmgVI))
 ## Deep Learning
 * Deep Learning - **DeepLearning.AI** - *Andrew NG, Kian Katanforoosh, Younes Bensouda Mourri* - `Specialization` ([:link:](https://www.coursera.org/specializations/deep-learning))
 ### Natural Language Processing
@@ -21,6 +22,8 @@ So if you want to contribute, please first check [the contribution section](#con
 
 ## Reinforcement Learning
 * Reinforcement Learning Specialization - **University of Alberta** - *Martha White, Adam White* ([:link:](https://www.coursera.org/specializations/reinforcement-learning#instructors))
+* Introduction to Reinforcement Learning 2015 - **DeepMind x University College London** - *David Silver* ([:link:](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ))
+
 # Datasets
 
 ## Natural Language Processing
